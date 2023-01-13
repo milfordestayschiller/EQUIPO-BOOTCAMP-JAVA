@@ -1,0 +1,227 @@
+.titulo{
+text-align: center;
+color: rgb(235, 235, 235);
+background-color: rgb(0, 0, 0);
+padding: 0.5em;
+margin: 0 auto;
+font-family: 'Lobster', cursive;
+}
+
+
+#bodycontacto{
+    background-color: rgb(221, 183, 125) !important;
+
+}
+.row {
+    display: flex;
+  }
+
+  .columna {
+    flex: 33.33%;
+    padding: 5px;
+  }
+
+  #mensaje {
+ height: 50px;
+
+  }
+
+  h2 {
+
+    font-size: 25px;
+    font-family: 'Lato', sans-serif;
+  }
+
+  
+  body {
+    background-color: rgb(255, 255, 255) !important;
+    margin: 0 auto;
+    padding: 0 auto;
+    width: 100%;
+    height: auto; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+
+  }
+
+ 
+
+ 
+
+      img {
+        width: 100%;
+        height: auto;
+        max-width: 30%;
+    
+      }
+
+      .div1 {
+        
+       
+        text-align: center;
+       
+      }
+
+      .div {
+
+        background: rgb(226, 85, 85);
+        padding: 10px 0px;
+        margin: 0 auto;
+      }
+
+      .container3 {
+        background-image: url('img\fondoropa2.jpg');
+        width: 100% ;
+        height: 30%;
+      }
+
+      a{
+        text-decoration: none;
+        color: white;
+        font-family: 'Lobster', cursive;
+        margin: 0 auto;
+      }
+      li{
+        font-family: 'Lato', sans-serif;
+        margin: 0 auto;
+      }
+
+      .extract {
+
+        background: rgb(226, 85, 85);
+        padding: 10px 0px;
+        color: white;
+        font-family: 'Lobster', cursive;
+        margin: 0 auto;
+      }
+
+      .contactanos {
+        font-size: 30px; margin: 0 auto;
+      }
+      .footer {
+        font-family: 'Lato', sans-serif;
+      }
+
+
+
+  #form {
+    text-align: center;
+  }
+
+  .form-control {
+    width: 20vh;
+  }
+
+  .carousel-inner img {
+    margin: auto;
+  }
+
+  .carousel-control-next-icon, .carousel-control-prev-icon{
+background-color:black !important;
+  }
+
+  .center>img {
+ 
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+    
+  }
+
+  .producto {
+    text-decoration: none;
+    color: white;
+  }
+
+  .seguimiento {
+    text-decoration: none;
+    color: white;
+  }
+  .envios {
+    text-decoration: none;color: white;
+  }
+
+  #fancybox-img {
+    width: 500% !important;
+    height: 50% !important;
+  }
+
+  #fancybox-outer {
+    position: relative;
+    width: 50% !important;
+    height: 1% !important;
+    background: rgb(255, 255, 255);
+}
+
+#fancybox-content {
+border: 0px !important;
+height: 250px !important;
+}
+
+#fancybox-img {
+  width: 1000% !important;
+  height: 100% !important;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.img1 {
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.ol {
+  text-align: center;
+}
+
+.card1 {
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  
+}
+
+.card {
+  margin: 0 auto; 
+  float: none; 
+  margin-bottom: 10px; 
+}
+
+.card1 {
+  padding: 10px;
+  background-color: green;
+  transition: transform .2s; 
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+}
+
+.card1:hover {
+  -ms-transform: scale(1.5); 
+  -webkit-transform: scale(1.5); 
+  transform: scale(1.5); 
+}
+
+.back {
+  padding: 60px 0px;
+  background: black;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+
+.carousel-control-next-icon {
+  width: 0;
+}
+
+.logo {
+max-width: 4%;
+}
